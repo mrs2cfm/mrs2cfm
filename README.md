@@ -11,7 +11,7 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaco para minha organizaçao;
 
-Você pode entrar em contato comigo 📫
+###Você pode entrar em contato comigo 📫
 
 marianaroberta20006@gmail.com
 
